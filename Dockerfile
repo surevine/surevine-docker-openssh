@@ -1,2 +1,2 @@
 FROM alpine:3.8
-RUN apk add --update --no-cache openssh
+RUN apk add --no-cache openssh-client
